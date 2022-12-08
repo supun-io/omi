@@ -1,0 +1,10 @@
+@import url(https://fonts.bunny.net/css?family=merriweather:400,700);
+
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    background-color: #fffefb;
+
+    --accent: #659dbd;
+}
